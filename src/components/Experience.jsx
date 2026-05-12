@@ -10,7 +10,7 @@ const experiences = [
     id: "mami",
     title: "Founder & CEO",
     company: "MAMI",
-    period: "May 2023 – Present",
+    period: "May 2018 – Present",
     type: "Fashion & Accessories",
     icon: "👗",
     color: "from-accent-500 to-pink-500",
